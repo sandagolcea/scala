@@ -1,0 +1,11 @@
+My new Play application
+=================================
+
+Scala app with Play framework bitesize
+
+
+#to get started
+clone repo (`git clone ..`)
+`cd play-scala-etc/`
+`activator run` 
+goto localhost port 9000
